@@ -1,5 +1,5 @@
-# Pong
-🏓 A pong game made in gdscript for Godot
+# 🏓 Pong
+A pong game made in gdscript for Godot
 
 ## Installation
 Download and open in the Godot engine
